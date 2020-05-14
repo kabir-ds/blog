@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![](main_snip2.png)
+![](main_snip.png)
 
 I am a passionate machine learning engineer who enjoys generating insights from data, building and deploying machine learning models 
 
