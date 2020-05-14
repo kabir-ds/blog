@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "I am a passionate machine learning engineer who enjoys generating insights from data, building and deploying machine learning models .",
+          "content": "I am a passionate machine learning engineer who enjoys generating insights from data, building and deploying machine learning models . Hopefully the work i share via this blog will be useful to the community. .",
           "url": "https://random-tree.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
