@@ -1,1 +1,1 @@
-Sitemap: https://kabir.ai/blog/sitemap.xml
+Sitemap: http://kabir.ai/blog/sitemap.xml
