@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://random-tree.github.io/blog/jupyter/image%20processing/opencv/pillow-simd/2020/05/15/OpenCVvsPillowSIMD.html</loc>
+<loc>https://kabir.ai/blog/jupyter/image%20processing/opencv/pillow-simd/2020/05/15/OpenCVvsPillowSIMD.html</loc>
 <lastmod>2020-05-15T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://random-tree.github.io/blog/about/</loc>
+<loc>https://kabir.ai/blog/jupyter/image/eda/self-education/covid19/fda/2020/06/05/Part1UnderstandingCOVID19.html</loc>
+<lastmod>2020-06-05T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://random-tree.github.io/blog/</loc>
+<loc>https://kabir.ai/blog/about/</loc>
 </url>
 <url>
-<loc>https://random-tree.github.io/blog/search/</loc>
+<loc>https://kabir.ai/blog/</loc>
 </url>
 <url>
-<loc>https://random-tree.github.io/blog/categories/</loc>
+<loc>https://kabir.ai/blog/search/</loc>
+</url>
+<url>
+<loc>https://kabir.ai/blog/categories/</loc>
 </url>
 </urlset>
