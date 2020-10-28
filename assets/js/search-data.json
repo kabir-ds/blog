@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": ". I am a passionate machine learning engineer who enjoys generating insights from data, building and deploying machine learning models . Hopefully the work shared via this blog will be useful to the community. .",
+          "content": ".",
           "url": "http://kabir.ai/blog/about/",
           "relUrl": "/about/",
           "date": ""
